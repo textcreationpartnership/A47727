@@ -1,0 +1,315 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Emperor's new declaration against the Most Christian King: or, the further avocatoria and inhibitoria against the crown of France Published by the Diet at Ratisbon.</title>
+            <author>Holy Roman Empire. Emperor (1658-1705 : Leopold I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47727</idno>
+            <idno type="STC">Wing L1113A</idno>
+            <idno type="STC">ESTC R214026</idno>
+            <idno type="EEBO-CITATION">99826262</idno>
+            <idno type="PROQUEST">99826262</idno>
+            <idno type="VID">30659</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47727)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30659)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1912:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Emperor's new declaration against the Most Christian King: or, the further avocatoria and inhibitoria against the crown of France Published by the Diet at Ratisbon.</title>
+                  <author>Holy Roman Empire. Emperor (1658-1705 : Leopold I)</author>
+                  <author>Leopold I, Holy Roman Emperor, 1640-1705. aut</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for Richard Baldwin in the Old-Baily,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printed in two columns.</note>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Grand Alliance, War of the, 1689-1697 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:30659:1"/>
+            <pb n="1" facs="tcp:30659:1" rendition="simple:additions"/>
+            <head>THE <hi>Emperors New Declaration</hi> AGAINST The Moſt Chriſtian King: OR, THE Further <hi>Avocatoria</hi> and <hi>Inhibitoria</hi> againſt the Crown of <hi>FRANCE.</hi> Publiſhed by the Diet at <hi>Ratisbon.</hi>
+            </head>
+            <p>WE <hi>Leopold,</hi> by the Grace of God choſen <hi>Ro<g ref="char:EOLhyphen"/>man</hi> Emperour, always the enlarger of Em<g ref="char:EOLhyphen"/>piros; King in <hi>Germany,</hi> of <hi>Hungary, Bo<g ref="char:EOLhyphen"/>hemia, Dalmatia, Croatia,</hi> and <hi>Sclavonia,</hi> &amp;c. Arch-Duke of <hi>Auſtria;</hi> Duke of <hi>Burgundy, Stiria, C<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>riinthia, Crain,</hi> and <hi>Wirtemberg;</hi> Count of <hi>Tyrol,</hi> &amp;c. ſend Our Imperial Grace to all Our and the Holy Empire's Electors. Princes, and States. Vaſſals, Inhabitants, Citi<g ref="char:EOLhyphen"/>zens, and Subjects, and to all and every Superiour and Inferiour Officers and Common Souldiers of Horſe and Foot. All and every of the ſame, may eaſily call to mind, how that We, by the Crown of <hi>France</hi>'s Invaſion of the <hi>Holy Empire</hi> in the laſt Year 1688. contrary to all Trea<g ref="char:EOLhyphen"/>ties of Peace, and without any juſt Appearance and Cauſe, and through the Barbarous Hoſtilities attending that Inva<g ref="char:EOLhyphen"/>ſion, were induc'd not only to ſend out Our Imperial <hi>Mandata Avocatoria</hi> and <hi>Inhibitoria</hi> through the Empire, but alſo by the Unanimous Conſent and Advice of the joynt Electors, Princes, and States, out of an Abſolute Neceſſity to publiſh a General War of the <hi>Roman</hi> Empire with that expreſly, powerful, and binding Command, that no State, Vaſſal, Inhabitant or Subject of the Holy <hi>Ro<g ref="char:EOLhyphen"/>man</hi> Empire, ſhould engage himſelf in the Service or Pay of the Crown of <hi>France,</hi> or its Adherents and Abettors, or their Abettors, or keep any Correſpondence or Com<g ref="char:EOLhyphen"/>merce with the ſame, much leſs ſuffer its Miniſters and Emiſſaries, or afford any Aſſiſtance or Retreat to any ſuch like Perſons, but to be Induſtrious to do them all ſort of Injury; all which is more at large expreſs'd in the afore<g ref="char:EOLhyphen"/>ſaid <hi>Avocatoria,</hi> and the thereupon enſuing Declaration of War, to which We anew graciouſly refer Our ſelves. Now conſidering that daily Experience teaches Us, that the Crown of <hi>France</hi> does not only at preſent continue its Hoſtile Enterprizes, but alſo fills the Holy <hi>Roman</hi> Em<g ref="char:EOLhyphen"/>pire, Our beloved Country of the <hi>German</hi> Nation, with ſuch barbarous and diſmal Tyranny, and inhumane Cru<g ref="char:EOLhyphen"/>elties, as were never heard of in any <hi>Heathen</hi> or <hi>Turkiſh</hi> Wars, and which ought to be paſs'd oven in ſilence in a <hi>Chriſtian.</hi> Hiſtory; So that it ſeems that the <hi>French</hi> endeavour as much as in them lies, not ſo much to reduce the <hi>Ger<g ref="char:EOLhyphen"/>man</hi> Nation under their <hi>Y<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ak,</hi> as utterly to deſtroy and root it out; of which a clear and unanſwerable mark is, that contrary to all Faith, and Word, and Promiſes paſt, they have made that horrible Deſolation and Deſtruction of the Ancient Cities of <hi>Spiers, Worms, Manbey<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>, Offen<g ref="char:EOLhyphen"/>b<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rg,</hi> and ſeveral others; wherein ſome have behaved themſelves with that Rage and Fury, that beſides the burn<g ref="char:EOLhyphen"/>ing and pulling down of Houſes, they alſo opened the very Graves and Tombs, and not ſo much as excuſed the Bones of the <hi>Roman</hi> Emperours and Kings, who had there reſted for ſome hundreds of Years; nay, have not ſo much as leſt one ſtone upon another of the Ancient Re<g ref="char:EOLhyphen"/>ligious Houſes. Wherefore We have, ſo much the more carefully to prevent that neither directly, nor indirectly any help be given to ſuch wicked and <hi>
+                  <g ref="char:V">Ʋ</g>nchriſtian</hi> Under<g ref="char:EOLhyphen"/>takings, after mature Deliberation held, and with the Conſent and Advice of the joynt Electors and States, thought it neceſſary to augment and exrend Our above<g ref="char:EOLhyphen"/>mentioned <hi>Mandata Avocatoria</hi> and <hi>Inbibitoria,</hi> which We here renew in their whole Contents, in the follow<g ref="char:EOLhyphen"/>ing manner. And firſt, We herewithal do afreſh earneſt<g ref="char:EOLhyphen"/>ly Command, Will, and Require, by the <hi>Roman,</hi> Impe<g ref="char:EOLhyphen"/>rial, and Abſolute Power Inveſted in Us, that not only the Inhabitants, Subjects, and all ſuch as belong to Us and the <hi>Roman</hi> Empire, that are in Civil and Military Ser<g ref="char:EOLhyphen"/>vices of the <hi>French</hi> King, or his Allies, and privately and openly are Abettors, or aſſiſting to their Abettors in any Part whatever, that they immediately after the Publication of theſe Our <hi>Imperial Avocatoria,</hi> upon the Penalties and Puniſhments expreſſed in Our former <hi>Avocatoria,</hi> repair into the Holy <hi>Roman</hi> Empire, Our Hereditary Kingdom and Territories, but alſo that they from this time forward, and as long as the preſent War ſhall laſt, ſhall not ſuffer themſelves to be employed for any other, whoever it may be, than their Country, and its preſentand future Allies, who actually are in the preſent War againſt the declared Enemy of the Empire, upon pain of incurring the ſame Puniſhments; much leſs ſuffer them to Liſt them, but wholly to forſake all Foreign Services. On the other ſide, they who ſhall willingly Obey theſe Our <hi>Mandata Avoca<g ref="char:EOLhyphen"/>toria;</hi> and repair in due time to Us or their Princes, Lords, and Superiours, ſhall be accommodated and aſſiſted ac<g ref="char:EOLhyphen"/>cording to Juſtice and their Quality. In the ſecond place, We Command, by vertue of the ſame <hi>Imperial</hi> Power, with the Unanimous Conſent of the afore-ſaid Electors and States, that no <hi>French</hi> Ambaſſadours, En<g ref="char:EOLhyphen"/>voys, Miniſters, their Retinue and Emiſſaries, nor any of the ſame nor other Nation, not only may not be ſuffered by any Electoral, Princely, or other Courts and Cities in the Empire; but alſo that no <hi>French-man,</hi> nor <hi>French<g ref="char:EOLhyphen"/>woman,</hi> Spiritual or Secular, of high and low Degree, be for the future admitted into Religious Benefices, Cloyſters, and Colledges, or into Service, and ſuch as are in already, to be diſmiſſed, upon pain of incurring Puniſhment, ſaving that ſo far as concerns the Spiritualty, their Heads, Superiours, and Ordinaries, will undertake and anſwer for them, that they ſhall not attempt any thing injurious or diſadvanta<g ref="char:EOLhyphen"/>gious to Our Intereſt, and that of the Empire, by Cor<g ref="char:EOLhyphen"/>reſpondence, or in other kinds: excepting nevertheleſs ſuch Secular <hi>French,</hi> as have reſided many years in the Empire, or withdrew thither through Motives of Conſcience and Religion, and have been received into the Protection of ſome of the States of the Empire, and have hitherto in all Places induſtriouſly paid the uſual Duty and Submiſſion to their Lords and Superiours, and have further lived according to the preſent and other Or<g ref="char:EOLhyphen"/>donnances of Us and the Empire. In like manner, in the third place, no <hi>Germans,</hi> whoever they may be, or under whatever Name, Denomination, or Pretext it is, ſhall have leave, or be at liberty to Travel in <hi>France.</hi> And We likewiſe, in the fourth place, ſhall immediately account for Enemies of the Empire all and every ſuch Foreign Power, as ſhall, to the Advantage of <hi>France,</hi> under what<g ref="char:EOLhyphen"/>ever colour or occaſion it may be, Attack any State or Al<g ref="char:EOLhyphen"/>lie of the Empire, at preſent, or in the future, during this War; and as they are to be immediately reputed Ene<g ref="char:EOLhyphen"/>mies of the Empire, ſo ſhall no <hi>German</hi> ſerve the ſame, but much more be bound immediately to forſake ſuch Ser<g ref="char:EOLhyphen"/>vice.
+<pb n="2" facs="tcp:30659:2"/>and repair to and be employed for his Country againſt the Common Enemy of the Empire. We Will &amp; Command, in the fifth place, That all Trade and Traffick, Exchange, Correſpondence, in whatever manner it may be, as well by Water as by Land, ſhall be wholly and univerſally bro<g ref="char:EOLhyphen"/>ken off with the Enemies of the Empire without the leaſt Connivance; and not only the States of the Empire, ac<g ref="char:EOLhyphen"/>cording to the Oath whereby they are bound to Us and the Empire, ſhall ſtedfaſtly and ſtrenuouſly adhere here<g ref="char:EOLhyphen"/>unto, but alſo Our and their Subjects are in like manner by their Duty bound thereunto; and then further, Ours, the Empire's, and each Places reſpective Fiſcals are to proceed ſummarily, and in high Fines, &amp; bodily Puniſhments againſt the tranſgreſſors and neglecters of the ſame. And if any Commodities, Ships, Waggons, Horſes, and other Car<g ref="char:EOLhyphen"/>riages ſhall be caught in the Fact, all the ſame, as alſo the Money-fine, ſhall be forfeited, one half to the Informer, and the other to the Proſecuting Fiſcal. We likewiſe for<g ref="char:EOLhyphen"/>bid, in the ſixth place, the Importation of all Manufa<g ref="char:EOLhyphen"/>ctures of <hi>France,</hi> and ſuch-like Toys; as alſo <hi>French</hi> Wine, Brandy, Oyl, and other Products and things, whether that they are brought immediately from thence, or through other Lands into the Empire in all Places, and particularly in the Maritime and Trading Towns, upon incurring the ſevereſt Penalties, and with Confiſcation; nay, and after Diſcovery, ſevere bodily Puniſhment; and require that to this end, in all Paſſages on the Borders, as alſo in the Toll and Cu<g ref="char:EOLhyphen"/>ſtom Places, where Merchants and their Goods are wont to paſs, they proceed with aſtrict and thorough ſearch, without Reſpect of Perſons, or further by other means eſtabliſh ſuch convenient Order, that this Prohi<g ref="char:EOLhyphen"/>bition may thoroughly, and without Exception, be ob<g ref="char:EOLhyphen"/>ſerved for the future, eſpecially in the Principal Maritime, and trading Towns, that ſo for the avoiding of all De<g ref="char:EOLhyphen"/>ceit, no ſuch Commodities may paſs, otherwiſe than upon the Credible Atteſtation of the Magiſtracy of the Place where the ſame were made, or whither they were carry<g ref="char:EOLhyphen"/>ing, from the ſecond, third, or fourth hand, upon pro<g ref="char:EOLhyphen"/>ducing and knowing the firſt Atteſlation. Wherefore We alſo ſeriouſly and earneſtly Command all and every Gene<g ref="char:EOLhyphen"/>ralities of War, Colonels, and other Commanding Offi<g ref="char:EOLhyphen"/>cers, who are in Our Service, and that of the Holy Em<g ref="char:EOLhyphen"/>pire, or its Electors, Princes, or States, that they as little as other Superiours, ſhall go about to grant any <hi>Protectoria,</hi> or Letters of Leave to any Domeſtick and Foreign Tra<g ref="char:EOLhyphen"/>ders, who ſhall ſollicite and inſinnate into them for the liberty of Tradicking with <hi>French</hi> Commodities for a ſhort time, or only for ſome days: Nor ſhall the ſame be granted by any Ambaſſadours, or other Foreign Miniſters, reſiding by Permiſſion in the Empire; but in caſe they be already granted, they ſhall <hi>ipſo facto</hi> be eſteemed void, and of no uſe, and no notice is to be taken of them. But ſo far forth as concerns <hi>French</hi> Commodities that were in the Empire before the Publication of the firſt <hi>Imperial Inhibi<g ref="char:EOLhyphen"/>toria,</hi> the ſame ſhall be uſed in the following manner: That, whereas in ſome Circles in thoſe matters due Preparations have not been already made, which if ſo, then to be diſpos'd of for the Publick Uſe, each Merchant or Shop-keeper ſhall be bound after the day of the Publication of theſe Additional Imperial <hi>Inhibitoria,</hi> in eight, or at the fartheſt in fourteen days, to give in and deliver to his Magiſtracy, a Cata<g ref="char:EOLhyphen"/>logue and Regiſter, upon Oath, of all ſuch <hi>French</hi> Com<g ref="char:EOLhyphen"/>modities and Manufactures he has by him, upon pain other<g ref="char:EOLhyphen"/>wiſe of Confiſcation of the ſame, and then to expect what Term, which without weighty cauſe, ſhall not eaſily be pro<g ref="char:EOLhyphen"/>longed ſhall be granted him for his ſelling of the ſame in the Land or City where he inhabits; which he is obediently to perform: And what he ſhall ſtill have leſt after the expi<g ref="char:EOLhyphen"/>ration of the Term, he ſhall in a ſhort time export out of the Empire, alſo <hi>Sub poe<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a Confiſcationis,</hi> or free himſelf of the ſame b<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> conſignation, or making them over to the Magiſtracy till time to come. Wherefore We Command all the Superiour Land Regencies to take in hand, and go about the <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Obſervance, by Money-Fines, or bodily Puniſhments, againſt their Tranſgreſſing Subjects, Citizens, and Perſons enjoying Protection; and ſo proceed to make ſuch further praiſe-worthy and ſufficient Preparations, that this wholſome Deſign may tend to the Profit of Our Coun<g ref="char:EOLhyphen"/>try and immediate Damage of the declared <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the Empire; and alſo that the like Decrees be <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>nuouſly and ſtedfaſtly executed. But pa<gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Admoniſh and Command in the ſeventh Place, <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> every the Superiour Land Regencies, to <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> moſt Diligence, that no Corn, Horſes, Po<gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Brimſtone, Salt-Peter, and all other counter<gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>modities be carried and tranſported out of the <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> where-ever it be, nay, not ſo much as into F<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Neutral Countries, without leave granted upon <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tant Conſiderations. We alſo admoniſh in the <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Place, as well all Spiritual as Temporal Re<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> earneſtly to Command their Subjects, Citizens, <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tection-men, that they, particularly the Merch<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and Trading People, do not forward ſuſpected <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and Packets addreſſed to them, but deliver the <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> their Regency and Magiſtracy, and they to take care <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them, according to their Place and Duty; as alſo <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Ours, and the Empire's Poſt-Maſters, Poſt-Officers <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> others, Commiſſioned to carry Letters, are hereby <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Commanded that they each with his own Name <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſtamp the Letters and Pacquets they receive; and if <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> harbour any Suſpicion, immediately, and without any <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and no leſs to the performance of their aforeſaid Duty <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> up ſuch Letters &amp; Packets to the Regency of the Pl<gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in caſe alſo, in the Ninth Place, any of the States or <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>bers of the Empire, not being under the Enemy's <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhall not perform his bounden Duty, according to <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and other <hi>Imperial</hi> Concluſions, or is already in a <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>lity, or in particular Treaties with <hi>France,</hi> or ſhall <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hereafter; he or they ſo offending, ſhall be pro<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> againſt with all Severity, by depriving them of all <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and Benefices holding of the Empire, according to <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Tenour of Executions, and other Imperial Ordon<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and alſo the Common Laws. As alſo no leſs, in the <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Place, againſt all others, who act contrary to this Ord<g ref="char:EOLhyphen"/>nance, either through manifeſt wilfulneſs, or the p<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of Publick Good, ſhall be ſtript of all their <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tances and Lands, Prerogatives, Rights, Subſtance, Go<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and Wealth, Offices and Dignities; and alſo if they <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ken, be puniſhined Body and Life, and the abſent Offi<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in their Effigies, and they and their Poſterity make <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> capable of bearing any Title, and their Arms <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> defaced, as alſo uncapable of Church-Preferments, <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Gentility, and Knight-hood, nay, and liable: any Puniſhment directed by the Regency proclaimed through the whole Empire, and the ſame ſhall be <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ted upon due notice given in all the reſpective Parts <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> likewiſe finally Command all Superiour and Inferiour, <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> well Eccleſiaſtical as Temporal Regencies, Ancients, <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>veditors, and other Over-ſeers, to make known all <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſaid to whom it may concern, and enjoyn them to <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>dience. And ſince it is very difficult, nay, wholly <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>poſſible to make ſuch General and Particular Ordo<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> as may provide for all Occaſions that may happen, <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> before could not be fore-ſeen, all and every Some Regency, in their Reſpective Countries, are free and <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>powred, according to the juncture of Times, Perſons, <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> other Circumſtances, to enlarge theſe <hi>Avocatoria in<g ref="char:EOLhyphen"/>hibiteria,</hi> and ſo to apply them to ſuch un-ſore-ſeen <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>caſions, as ſhall promote the Publick Welfare, and th<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> true intention to do Damage to the Enemy of the <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>pire; but not to take them away wholly, or in part, <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſo to compleat and fulfill them as far as lies in each <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Power, and as ſhall ſhew his Fidelity and Love to his <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Country; and laſtly, avoid the above-mentioned P<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and Puniſhments. According to which, each one is to <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>gulate himſelf, and that we earneſtly enjoyn. Given i<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Our and the Holy <hi>Imperial</hi> City of <hi>Augsburgh,</hi> the <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of <hi>October, Anno</hi> 1689. Of Our <hi>Roman</hi> Reign 32. <hi>
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>garian</hi> 35. and the <hi>Bohemian</hi> 34.</p>
+            <closer>
+               <signed>LEOPOLD, <hi>
+                     <g ref="char:V">Ʋ</g>t</hi> Leopold William. <hi>Count of</hi> Conings E<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> (LS.) <hi>Ad Mandatum Sac. Caf. Majeſtatis proprium.</hi> C.F. Co<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>bro<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Richard Baldwin</hi> in the <hi>Old-Baily.</hi> 1689.</p>
+            <pb facs="tcp:30659:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:30659:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:30659:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
